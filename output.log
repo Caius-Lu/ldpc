@@ -1,0 +1,15 @@
+2019/11/05 20:23:46 - __main__ - INFO - 64 - main_test - loaded from ckpt!
+2019/11/05 20:25:42 - __main__ - INFO - 65 - main_test - loaded from ckpt!
+2019/11/05 20:26:36 - __main__ - INFO - 67 - main_test - test acc0.3412
+2019/11/05 20:27:24 - __main__ - INFO - 65 - main_test - loaded from ckpt!
+2019/11/05 20:28:19 - __main__ - INFO - 67 - main_test - test acc0.3412
+2019/11/05 20:29:02 - __main__ - INFO - 65 - main_test - loaded from ckpt!
+2019/11/05 20:29:55 - __main__ - INFO - 68 - main_test - test acc0.3412
+2019/11/05 20:42:11 - __main__ - INFO - 66 - main_test - loaded from ckpt!
+2019/11/05 20:43:06 - __main__ - INFO - 69 - main_test - test acc0.3412
+2019/11/05 20:44:36 - __main__ - INFO - 66 - main_test - loaded from ckpt!
+2019/11/05 20:45:31 - __main__ - INFO - 69 - main_test - test acc0.3412
+2019/11/05 20:50:13 - __main__ - INFO - 66 - main_test - loaded from ckpt!
+2019/11/05 20:54:41 - __main__ - INFO - 69 - main_test - test acc0.7178333333333333
+2019/11/05 21:24:43 - __main__ - INFO - 66 - main_test - loaded from ckpt!
+2019/11/05 21:25:45 - __main__ - INFO - 69 - main_test - test acc0.3389333333333333

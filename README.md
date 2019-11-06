@@ -1,2 +1,7 @@
-# ldpc
-Classification network based on deep learning
+tensorboardX
+tensorbord
+tensorflow
+
+
+tensorboard --logdir=logs
+python main.py --mode train
